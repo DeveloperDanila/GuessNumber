@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="example">%1$s + %2$s = ?</string>
+    <string name="input_hint">Input answer…</string>
+    <string name="button_answer">Answer</string>
+    <string name="incorrect_answer">Sorry, you are incorrect</string>
+    <string name="correct_answer">You are correct</string>
+    <string name="score">Your score: %1$s</string>
+</resources>
